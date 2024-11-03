@@ -1,5 +1,3 @@
 hi 
 hello
 hi
-iam
-good
